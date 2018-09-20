@@ -1,0 +1,5 @@
+train  = my_train.txt
+valid  = my_test.txt
+names = yolo/data/voc.names
+backup = backup
+gpus  = 0,1
